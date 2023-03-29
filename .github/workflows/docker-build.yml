@@ -19,4 +19,4 @@ jobs:
          uses: docker/build-push-action@v4.0.0
          with:
           push: true
-          tags: ElDamoss/getting-started:latest
+          tags: eldamoss/getting-started:latest
